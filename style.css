@@ -1,0 +1,14 @@
+div.stButton > button{
+    color: blue;
+    height: 10%;
+    width: 40%;
+    font-size: 2%;
+    margin: 0 auto;
+    display: block;
+    background-color: #FAF0D7;
+}
+
+div.stButton > button:hover{
+    color: #4F709C;
+    border: #4F709C 1px solid;
+}
