@@ -1,5 +1,5 @@
 streamlit
-minio
+minio==7.1.16
 cryptography
 io
 mailjet_rest
